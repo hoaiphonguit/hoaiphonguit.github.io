@@ -1,0 +1,49 @@
+{
+    "title": "Đường xưa mây trắng",
+    "author": " Thích Nhất Hạnh",
+    "chapter": "Phần 1",
+    "thumbnail": "/images/duong-xua-may-trang/thumbnail.jpeg",
+    "bookType": "audio",
+    "chapterList": [
+        {
+            "title": "Chương 01: Đi để mà đi",
+            "audioUrl": "https://ia600706.us.archive.org/33/items/duong-xua-may-trang.sna/DXMT-Chuong_01-Di_De_Ma_Di.mp3",
+            "duration": 1690.603333
+        },
+        {
+            "title": "Chương 02: Nghệ thuật chăn trâu",
+            "audioUrl": "https://ia800706.us.archive.org/33/items/duong-xua-may-trang.sna/DXMT-Chuong_02-Nghe_Thuat_Chan_Trau.mp3",
+            "duration": 1034.015583
+        },
+        {
+            "title": "Chương 03: Mở của Kusa",
+            "audioUrl": "https://ia800706.us.archive.org/33/items/duong-xua-may-trang.sna/DXMT-Chuong_03-Mo_Co_KUSA.mp3",
+            "duration": 934.85475
+        },
+        {
+            "title": "Chương 04: Chim Thiên Nga trúng tên",
+            "audioUrl": "https://ia600706.us.archive.org/33/items/duong-xua-may-trang.sna/DXMT-Chuong_04-Chim_Son_Ca_Trung_Ten.mp3",
+            "duration": 1105.016417
+        },
+        {
+            "title": "Chương 05: Bát sữa cứu mạng",
+            "audioUrl": "https://ia800706.us.archive.org/33/items/duong-xua-may-trang.sna/DXMT-Chuong_05-Bat_Sua_Cuu_Mang.mp3",
+            "duration": 865.264583
+        },
+        {
+            "title": "Chương 06: Bóng mát cây hồng táo",
+            "audioUrl": "https://ia800706.us.archive.org/33/items/duong-xua-may-trang.sna/DXMT-Chuong_06-Bong_Mat_Cay_Hong_Tao.mp3",
+            "duration": 1071.736417
+        },
+        {
+            "title": "Chương 07: Giải thưởng voi trắng",
+            "audioUrl": "https://ia800706.us.archive.org/33/items/duong-xua-may-trang.sna/DXMT-Chuong_07-Giai_Thuong_Voi_Trang.mp3",
+            "duration": 880.8335
+        },
+        {
+            "title": "Chương 08: Chuỗi ngọc",
+            "audioUrl": "https://ia800706.us.archive.org/33/items/duong-xua-may-trang.sna/DXMT-Chuong_08-Chuoi_Ngoc.mp3",
+            "duration": 734.809
+        }
+    ]
+}

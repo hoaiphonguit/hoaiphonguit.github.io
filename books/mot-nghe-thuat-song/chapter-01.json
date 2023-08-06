@@ -1,0 +1,29 @@
+{
+    "title": "Một nghệ thuật sống",
+    "author": "Thu Giang - Nguyễn Duy Cần",
+    "chapter": "Phần 1",
+    "thumbnail": "/images/mot-nghe-thuat-song/thumbnail.jpg",
+    "bookType": "audio",
+    "chapterList": [
+        {
+            "title": "Phần 01: Sống",
+            "audioUrl": "https://ia803007.us.archive.org/16/items/mot-nghe-thuat-song.sna/MOT_NGHE_THUAT_SONG_1.mp3",
+            "duration": 2733.871
+        },
+        {
+            "title": "Phần 02: Cách mạng xã hội",
+            "audioUrl": "https://ia803007.us.archive.org/16/items/mot-nghe-thuat-song.sna/MOT_NGHE_THUAT_SONG_2.mp3",
+            "duration": 1817.155917
+        },
+        {
+            "title": "Phần 03: Hành động của kẻ giải thoát",
+            "audioUrl": "https://ia803007.us.archive.org/16/items/mot-nghe-thuat-song.sna/MOT_NGHE_THUAT_SONG_3.mp3",
+            "duration": 1280.391833
+        },
+        {
+            "title": "Phần 04: Phụ lục",
+            "audioUrl": "https://ia803007.us.archive.org/16/items/mot-nghe-thuat-song.sna/MOT_NGHE_THUAT_SONG_4.mp3",
+            "duration": 3089.893917
+        }
+    ]
+}
