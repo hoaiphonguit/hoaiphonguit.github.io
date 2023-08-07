@@ -1,27 +1,9 @@
 [
     {
-        "id": 5,
-        "title": "Sách nói tiếng Anh",
-        "url": "",
-        "items": [
-            {
-                "title": "Around the world in 80 days",
-                "author": "Jules Verne",
-                "url": "/around-the-world-in-80-days/01",
-                "thumbnail": "/images/around-the-world-in-80-days/thumbnail.jpg"
-            },
-            {
-                "title": "To kill a Mockingbird",
-                "author": "Harper Lee",
-                "url": "/to-kill-a-mockingbird/01",
-                "thumbnail": "/images/to-kill-a-mockingbird/thumbnail.jpeg"
-            }
-        ]
-    },
-    {
-        "id": 5,
+        "id": 10,
         "title": "Sách nói tiếng Việt",
         "url": "",
+        "isShuffle": true,
         "items": [
             {
                 "title": "Không diệt không sinh đừng sợ hãi",
@@ -40,6 +22,31 @@
                 "author": "Thu Giang - Nguyễn Duy Cần",
                 "url": "/mot-nghe-thuat-song",
                 "thumbnail": "/images/mot-nghe-thuat-song/thumbnail.jpg"
+            },
+            {
+                "title": "Từ tốt đến vĩ đại",
+                "author": "Jim Collins",
+                "url": "/tu-tot-den-vi-dai",
+                "thumbnail": "/images/tu-tot-den-vi-dai/thumbnail.jpg"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Sách nói tiếng Anh",
+        "url": "",
+        "items": [
+            {
+                "title": "Around the world in 80 days",
+                "author": "Jules Verne",
+                "url": "/around-the-world-in-80-days/01",
+                "thumbnail": "/images/around-the-world-in-80-days/thumbnail.jpg"
+            },
+            {
+                "title": "To kill a Mockingbird",
+                "author": "Harper Lee",
+                "url": "/to-kill-a-mockingbird/01",
+                "thumbnail": "/images/to-kill-a-mockingbird/thumbnail.jpeg"
             }
         ]
     }
